@@ -1,24 +1,3 @@
-/* this is where the pix classes live */
-.typin {
-    background-color: #DDD;
-    margin: 15px;
-}
-.pix {
-    background-color: #DDD;
-    width: 200px;
-    height: 30px;
-    margin: 15px;
-}
-    #top {
-        border: 1px solid;
-        
-    }
-
-    #bottom {
-        border: 1px solid;
-        height: 100px;
-        
-    }
 /* this is where the float classes live */
 .float-left {
     float: left;
