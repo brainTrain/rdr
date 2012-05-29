@@ -9,10 +9,12 @@ $(document).ready(function() {
         } 
         var $nextSlide = '#slide-' + clickNumber;
         var pos = $($nextSlide).position();
+        /*
         $('body').animate(
             {'left': '+=' + pos.left + 'px', 'top': '+=' + pos.top +'px'}, 
         2000);
-        //scroll(pos.left,pos.top);
+        */
+        /scroll(pos.left,pos.top);
     });
     
 });
