@@ -11,7 +11,7 @@ $(document).ready(function() {
         var pos = $($nextSlide).position();
         $('body').animate(
             {'left': '+=' + pos.left + 'px', 'top': '+=' + pos.top +'px'}, 
-        35000);
+        2000);
         //scroll(pos.left,pos.top);
     });
     
