@@ -14,6 +14,8 @@
 .clear-right {
     clear: right;
 }
+
+/* selection classes */
 .select-none {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -22,3 +24,16 @@
         -ms-user-select: none;
             user-select: none;
 }
+.pointer {
+    cursor: pointer;
+}
+
+/* display/visibility */
+.none {
+    display: none;
+}
+/*
+.hidden {
+    visibility: hidden;
+}
+*/
