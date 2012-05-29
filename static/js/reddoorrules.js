@@ -14,7 +14,7 @@ $(document).ready(function() {
             {'left': '+=' + pos.left + 'px', 'top': '+=' + pos.top +'px'}, 
         2000);
         */
-        /scroll(pos.left,pos.top);
+        scroll(pos.left,pos.top);
     });
     
 });
